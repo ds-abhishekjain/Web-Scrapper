@@ -1,0 +1,62 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.115:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 20:49:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 20:49:24] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 20:49:24] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 20:49:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:object of type 'Response' has no len()
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 20:49:34] "POST /review HTTP/1.1" 200 -
+INFO:root:object of type 'Response' has no len()
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 20:50:24] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 20:52:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 20:52:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 20:52:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 20:52:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 20:52:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 20:52:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 20:52:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 20:52:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 20:52:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 20:52:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 20:52:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 20:52:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 22:22:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 22:22:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 22:22:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:object of type 'Response' has no len()
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 22:22:27] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.115:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 22:24:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 22:24:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 22:24:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very good'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good Camera'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer 👌🏻It will be a real value for money if they provide charger and earphone inbox!'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'Product': 'iphone11', 'Name': 'Vikram rapolu', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Perfect Product!!'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at all'}, {'Product': 'iphone11', 'Name': 'siva sankar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Photos super'}, {'Product': 'iphone11', 'Name': 'vikash  Yadav', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It’s really awesome'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money 😍'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Go for iPhone 11 , if confused between iPhone 11 or iPhone 12 mini.Battery Life is enhanced , it worked for complete 2 days without charging it. Explored new features of taking screenshot by clicking on apple logo by Haptic Touch , Portrait mode with stage effect enhanced & slow motion selfie.'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Go for iPhone 11 , if confused between iPhone 11 or iPhone 12 mini.Battery Life is enhanced , it worked for complete 2 days without charging it. Explored new features of taking screenshot by clicking on apple logo by Haptic Touch , Portrait mode with stage effect enhanced & slow motion selfie.'}]
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 22:25:04] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 22:25:04] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 22:25:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone14', 'Name': 'Avi Nash', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Good'}, {'Product': 'iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'iphone14', 'Name': 'Ajay Kumar', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Just amazing!'}, {'Product': 'iphone14', 'Name': 'Tara singh mehra', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice camera but battery drain fast specially on video recording'}, {'Product': 'iphone14', 'Name': 'SUNNY KUMAR', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'I used iPhone 12 mini and now upgraded with iPhone 14. Camera quality is awesome.Full day battery backup.Super Retina display with high dynamic range is awesome.In terms of camera and battery life is big upgrade for me.'}, {'Product': 'iphone14', 'Name': 'Narendar Redyy', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Nice UI and Fast'}, {'Product': 'iphone14', 'Name': 'Ashwini  biswal ', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Awesome 👍'}, {'Product': 'iphone14', 'Name': 'Abinash Bhuyan Rajput', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome....❤️🙌😌Display Camera Battery Processor....JUST WOW....✨💗☺️'}, {'Product': 'iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The night mode can take some really good shots jn low light conditions .The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.'}, {'Product': 'iphone14', 'Name': 'Sri pavan sundeep Somu', 'Rating': '1', 'CommentHead': 'Waste of money!', 'Comment': "The volume down button is struck and unable to volume up. The Flipkart team is saying it is open box delivery so they can't help.......how can we check the volume without opening/start the mobile, when i ask this question the customer support placing my call on hold and dropping my call"}, {'Product': 'iphone14', 'Name': 'Sri pavan sundeep Somu', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "The volume down button is struck and unable to volume up. The Flipkart team is saying it is open box delivery so they can't help.......how can we check the volume without opening/start the mobile, when i ask this question the customer support placing my call on hold and dropping my call"}]
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 22:28:25] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 22:28:25] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 22:28:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'jblspeaker', 'Name': 'Sukesh Punyamurthy', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Crazy Sound, Crazy Speakers !! Worth buying.'}, {'Product': 'jblspeaker', 'Name': 'Pushan Barman', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "OMG! This speaker is a wonder thing at this price. Such a good balance of low and high even on the maximum level of sound. Blue color looks dope! I know there are other brands as well with higher watt speakers but this one won't let you down if you're looking for something which is versatile and can go to places where no other speaker can then go for JBL GO 3 without a second thought."}, {'Product': 'jblspeaker', 'Name': 'Shyam Krishna S', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'What a product!!!Backup says 5hrs.. Its been 6.5 hrs with sound @75% still its seems enough juice is there.. Absolutely worth if you are a quality listener.. Otherwise just go for any boom box.. Pay for the quality 👌🏼👌🏼'}, {'Product': 'jblspeaker', 'Name': 'prateek yadav', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Unbelievably amazing !! You can always trust JBL brand without any 2nd thought. There may be so many Bluetooth speakers these days with thumping bass etc. But JBL has got an amazing sound quality, to me which is the most Important feature. Whats the use of huge Bass without the quality, crispness and true sound notes. Sound is very very Loud, bass is good, Sound quality is great !!Light weight, super Handy and effortlessly portable.Go without any thought!!'}, {'Product': 'jblspeaker', 'Name': 'Shubham Singh', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'Overrated Product Decent Performance outstanding Design and looks.'}, {'Product': 'jblspeaker', 'Name': 'Dhanraj Kumar', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Beast 5 star ⭐⭐⭐⭐⭐'}, {'Product': 'jblspeaker', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Amazing sounds quality , crystal clear song with decent amount of bass ,, surprisingly very loud audio from a small size speaker ,, battery life is decent ,,'}, {'Product': 'jblspeaker', 'Name': 'Sambit Subhasish Sahu', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'All good. Price is little bit higher.'}, {'Product': 'jblspeaker', 'Name': 'Sayan Sil', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': 'Just close ur eyes and tap on buy now button...no compromise'}, {'Product': 'jblspeaker', 'Name': 'Raju Raj', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Nice I really like it great sound pure bass⚡🤐🔫❤'}, {'Product': 'jblspeaker', 'Name': 'Raju Raj', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Nice I really like it great sound pure bass⚡🤐🔫❤'}]
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 22:29:08] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 22:29:08] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2023 22:29:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
