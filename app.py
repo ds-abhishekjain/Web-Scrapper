@@ -73,7 +73,7 @@ def index():
                           "Comment": custComment}
                 reviews.append(mydict)
             logging.info("log my final result {}".format(reviews))
-            uri = "mongodb+srv://ds-abhishekjain:NEELAM1993j@ds-abhishekjain.s3hd2l4.mongodb.net/?retryWrites=true&w=majority"        # Create a new client and connect to the server
+            uri = "mongodb+srv://<mongodb uderid>:<mongodb pass>@<mongodb user id>.s3hd2l4.mongodb.net/?retryWrites=true&w=majority"        # Create a new client and connect to the server
             client = pymongo.MongoClient(uri)
             db = client['review_scrap']
             review_col = db['review_scrap_data']
